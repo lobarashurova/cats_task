@@ -1,0 +1,1 @@
+enum TaskStatus { LOADING, SUCCESS, ERROR, INITIAL }
